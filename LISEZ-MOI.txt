@@ -1,0 +1,12 @@
+SITE POUR DIDEROT ❤️
+
+Pour voir le site :
+1. Ouvre index.html dans un navigateur.
+2. Pour le partager avec Diderot via un lien public, publie le fichier sur un hébergeur statique, par exemple GitHub Pages.
+3. Avant publication, tu peux modifier la lettre dans index.html et ajouter vos souvenirs.
+
+Le site est responsive pour téléphone et ordinateur. Les réponses aux énigmes sont :
+- Énigme 1 : amour
+- Énigme 2 : 8 (Diderot = 7 lettres + 1 cœur)
+
+Note : le vœu écrit à la fin n'est pas envoyé ni sauvegardé sur un serveur ; il reste seulement affiché dans la page.
